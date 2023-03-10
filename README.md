@@ -21,5 +21,3 @@ To run the code in this repository, you will need to have the following software
 ## Contributors
 This repository is maintained by Arindam Roy (@ArindamRoy23) and Anmol Katiyar (@Jupiter345), students in the Data Science and Business Analytics program at CentraleSupélec and ESSEC Business School. If you find any errors or have suggestions for improving the code, feel free to create a pull request or contact the author directly.
 
-## License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
